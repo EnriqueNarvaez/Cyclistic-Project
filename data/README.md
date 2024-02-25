@@ -2,17 +2,17 @@
 
 Check the data in the following link and replace de data according to the following instructions:
 
-df_202301 -> https://divvy-tripdata.s3.amazonaws.com/202301-divvy-tripdata.zip
-df_202302 -> https://divvy-tripdata.s3.amazonaws.com/202302-divvy-tripdata.zip
-df_202303 -> https://divvy-tripdata.s3.amazonaws.com/202303-divvy-tripdata.zip
-df_202304 -> https://divvy-tripdata.s3.amazonaws.com/202304-divvy-tripdata.zip
-df_202305 -> https://divvy-tripdata.s3.amazonaws.com/202305-divvy-tripdata.zip
-df_202306 -> https://divvy-tripdata.s3.amazonaws.com/202306-divvy-tripdata.zip
-df_202307 -> https://divvy-tripdata.s3.amazonaws.com/202307-divvy-tripdata.zip
-df_202308 -> https://divvy-tripdata.s3.amazonaws.com/202308-divvy-tripdata.zip
-df_202309 -> https://divvy-tripdata.s3.amazonaws.com/202309-divvy-tripdata.zip
-df_202310 -> https://divvy-tripdata.s3.amazonaws.com/202310-divvy-tripdata.zip
-df_202311 -> https://divvy-tripdata.s3.amazonaws.com/202311-divvy-tripdata.zip
+* df_202301 -> https://divvy-tripdata.s3.amazonaws.com/202301-divvy-tripdata.zip
+* df_202302 -> https://divvy-tripdata.s3.amazonaws.com/202302-divvy-tripdata.zip
+* df_202303 -> https://divvy-tripdata.s3.amazonaws.com/202303-divvy-tripdata.zip
+* df_202304 -> https://divvy-tripdata.s3.amazonaws.com/202304-divvy-tripdata.zip
+* df_202305 -> https://divvy-tripdata.s3.amazonaws.com/202305-divvy-tripdata.zip
+* df_202306 -> https://divvy-tripdata.s3.amazonaws.com/202306-divvy-tripdata.zip
+* df_202307 -> https://divvy-tripdata.s3.amazonaws.com/202307-divvy-tripdata.zip
+* df_202308 -> https://divvy-tripdata.s3.amazonaws.com/202308-divvy-tripdata.zip
+* df_202309 -> https://divvy-tripdata.s3.amazonaws.com/202309-divvy-tripdata.zip
+* df_202310 -> https://divvy-tripdata.s3.amazonaws.com/202310-divvy-tripdata.zip
+* df_202311 -> https://divvy-tripdata.s3.amazonaws.com/202311-divvy-tripdata.zip
 
 License Link:
 * [Here](https://divvybikes.com/data-license-agreement)
