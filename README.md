@@ -2,6 +2,9 @@ This project has been created to maintain and put into practice all the knowledg
 
 If you have more interest to know more about this certification, you are welcome to know more [click here](https://grow.google/intl/es-419_us/certificates/data-analytics/).
 
+Visual Presentation:
+* Download the pdf document if you want to see the presentation about the insights found. 
+
 Tableua Visualizations:
 
 * [Cyclistic Project 2023 - Dashboard](https://public.tableau.com/app/profile/enrique.narvaez/viz/CyclisticProject2023/Cyclistic2023Dashboard)
